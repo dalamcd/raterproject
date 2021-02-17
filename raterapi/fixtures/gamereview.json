@@ -1,0 +1,20 @@
+[
+	{
+		"model": "raterapi.gamereviews",
+		"pk": 1,
+		"fields": {
+			"user": 1,
+			"game": 1,
+			"review": "It's battleship, the board game"
+		}
+	},
+	{
+		"model": "raterapi.gamereviews",
+		"pk": 2,
+		"fields": {
+			"user": 1,
+			"game": 2,
+			"review": "It's WOW, the horde game"
+		}
+	}
+]
